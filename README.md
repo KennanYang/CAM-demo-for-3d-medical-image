@@ -3,6 +3,19 @@ Its a CAM(Class Activation Mapping) demo for 3d medical image.  (pytorch and UNe
 
 Recently, I was using 3DUNET for CT image segmentation task, and found that I could not find the CAM code based on pytorch, so I uploaded a demo by myself.
 
+The demo is right adrenal glander, and CT image size is (48,48,48). You can customize your path, model, and data.
+
+Required python packages：
+
+```
+numpy
+scipy
+SimpleITK
+matplotlib
+skimage
+cv2
+```
+
 My result picture：
 
 ![CAM result](https://user-images.githubusercontent.com/51430841/199655072-a440f810-296e-45d3-b744-46858f8c7440.png)
