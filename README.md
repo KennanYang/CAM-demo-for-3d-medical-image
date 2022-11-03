@@ -4,7 +4,8 @@ Its a CAM(Class Activation Mapping) demo for 3d medical image.  (pytorch and UNe
 Recently, I was using 3DUNET for CT image segmentation task, and found that I could not find the CAM code based on pytorch, so I uploaded a demo by myself.
 
 My result picture：
-![my cam result](CAM result.png)
+
+![CAM result](https://user-images.githubusercontent.com/51430841/199655072-a440f810-296e-45d3-b744-46858f8c7440.png)
 
 Reference：
 
